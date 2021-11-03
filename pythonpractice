@@ -1,0 +1,15 @@
+character_name = "John"
+print ("George Is 70 years old")
+print(" likes to spend his days at the 70 Club")
+print (" " + character_name + " likes it ")
+
+
+
+character_name = "John"
+character_age = 50.393993
+is_Male = True
+print(" There was once a man named " + character_name + " , ")
+print(" He was " + character_age + " years old ")
+print(" He was 35")
+character_name = "Mike"
+print( " " + character_name + ", was sad about being " + character_age + ",")
