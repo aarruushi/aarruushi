@@ -13,3 +13,6 @@ print(" He was " + character_age + " years old ")
 print(" He was 35")
 character_name = "Mike"
 print( " " + character_name + ", was sad about being " + character_age + ",")
+
+print (10 % 3)
+= 30 
