@@ -15,4 +15,14 @@ character_name = "Mike"
 print( " " + character_name + ", was sad about being " + character_age + ",")
 
 print (10 % 3)
-= 30 
+= 3
+
+name = input("Enter your name:")
+age = input(" What is your age? ")
+print( "Hello" + name + "!" " You are " + age + " years old ")
+
+num1 = input("enter a number")
+num2 = input ("enter another number" )
+result = num1 + num2
+
+print(result)
