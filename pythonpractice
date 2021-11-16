@@ -26,3 +26,11 @@ num2 = input ("enter another number" )
 result = num1 + num2
 
 print(result)
+
+name = input("Enter a name")
+color = input("Enter a color")
+celebrity_name = input("Enter celebrity name")
+
+print("Roses are" + color)
+print(name + "are blue")
+print(" I adore " + celebrity_name)
