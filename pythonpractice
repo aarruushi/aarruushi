@@ -34,3 +34,9 @@ celebrity_name = input("Enter celebrity name")
 print("Roses are" + color)
 print(name + "are blue")
 print(" I adore " + celebrity_name)
+
+
+freinds = ("Me" , "Myself" , "I")
+
+print(friends)
+
